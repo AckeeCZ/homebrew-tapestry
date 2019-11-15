@@ -1,4 +1,4 @@
-class Tezosgen < Formula
+class Tapestry < Formula
     desc "CLI tool to create lightweight Swift frameworks 🏎"
     homepage "https://github.com/AckeeCZ/tezosgen"
     url "https://github.com/AckeeCZ/tezosgen/releases/download/1.0.3/tezosgen-1.0.3.zip"
