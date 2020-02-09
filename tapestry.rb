@@ -2,7 +2,7 @@ class Tapestry < Formula
     desc "CLI tool to create lightweight Swift frameworks 🏎"
     homepage "https://github.com/AckeeCZ/tapestry"
     url "https://github.com/AckeeCZ/tapestry/releases/download/0.0.5/tapestry-0.0.5.zip"
-    sha256 "0b954720c63cb078e78e6d9032326d79c466cf2fff57db8d4dd46e0e47aff2aa"
+    sha256 "048639c6bb72316490f7d8d30cf778f017071a3345519ac9ce2c96d2be921c6f"
     head "https://github.com/AckeeCZ/tapestry.git"
 
     depends_on :xcode => ["8.0", :build]
